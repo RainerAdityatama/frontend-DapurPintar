@@ -40,8 +40,6 @@ Dibangun dengan arsitektur modern yang memisahkan secara tegas antara **Server S
 
 ## 📸 Tangkapan Layar (Screenshots)
 
-_(Catatan: Gambar antarmuka aplikasi. Ganti path URL di bawah dengan link screenshot aslimu)_
-
 |              Halaman Utama (Dashboard)               |             Halaman Generate Menu AI              |
 | :--------------------------------------------------: | :-----------------------------------------------: |
 | ![Dashboard](/src/assets/dokumentasi/dashboard.png)  | ![Generate](/src/assets/dokumentasi/formMenu.png) |
